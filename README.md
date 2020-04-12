@@ -1,4 +1,4 @@
-#smart media player
+#smart video player
 It is a project which basically automate the vlc media player using face detection with the help of opencv python.
 steps to execute:
 1] Requirements:
